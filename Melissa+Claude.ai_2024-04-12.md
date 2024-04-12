@@ -152,6 +152,7 @@ this is really good but can you tweak to another version that embodies the socia
 ## Claude.ai
 
 Excellent points. Let me try to incorporate more of an explicit social-ecological systems framing and unpack what modeling stakeholder interdependencies could look like:
+
 Mapping the Social-Ecological Dynamics of AI Trajectories
 
 Advanced AI capabilities are emerging within a complex social-ecological system involving many interconnected actors, institutions and environments. Understanding the intricate incentive structures, constraints and power asymmetries across this system is vital for positive, aligned trajectories.
