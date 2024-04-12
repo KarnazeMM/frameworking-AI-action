@@ -2,7 +2,7 @@
 Transcript from interfacing with ChatGPT 3.5 on April 12, 2024
 
 ### User Goal: 
-Melissa wanted to determine if ChatGPT 3.5 could brainstorm on topic of creating frameworks at intersection of social ecology and conflicts of interest in space of "AI regulations"; similarly to that done by Claude.ai and that transcript was used a template for "mirroring" that line of questioning (see file: Melissa+Claude.ai_2024-04-12.md)
+Melissa wanted to determine if ChatGPT 3.5 could brainstorm on topic of creating frameworks at intersection of social ecology and conflicts of interest in space of "AI regulations"; similarly to that done by Claude.ai and that transcript was used as a template for "mirroring" that line of questioning (see file: Melissa+Claude.ai_2024-04-12.md)
 
 ### User Note: 
 Prompts were quickly entered without checking for typos.  
